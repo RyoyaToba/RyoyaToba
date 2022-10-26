@@ -3,4 +3,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RyoyaToba&theme=chalk&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RyoyaToba&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RyoyaToba&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
