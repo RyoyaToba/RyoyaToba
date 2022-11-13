@@ -12,29 +12,30 @@
 
 ### 学習内容のアウトプット
 
-* TIL
+* [TIL](https://github.com/RyoyaToba/TIL)
 
 ### SpringBootを利用したアプリケーション開発
 
-* 競馬アプリケーション
+* [競馬アプリケーション](https://github.com/RyoyaToba/horse)
 * パソコンECサイト
 
 ### サーブレット/JSP
 
-* つぶやきアプリケーション
+* [練習用](https://github.com/RyoyaToba/servlet_JSP_practice)
+* [つぶやきアプリケーション](https://github.com/RyoyaToba/sample_servletJSP_Tsubuyaki)
 
 ### SpringBatch
 
-* CSVファイルからデータを取り込みDBへ格納するサンプル(Chunk)
-* DBからデータを取り込みCSVファイルとして出力するサンプル(Chunk)
-* Batch処理を利用したHelloWorldの出力(Tasklet)
+* [CSVファイルからデータを取り込みDBへ格納するサンプル(Chunk)](https://github.com/RyoyaToba/springBatchChunkCsvInport)
+* [DBからデータを取り込みCSVファイルとして出力するサンプル(Chunk)](https://github.com/RyoyaToba/springBatchChunkCsvExport)
+* [Batch処理を利用したHelloWorldの出力(Tasklet)](https://github.com/RyoyaToba/springBatch_HelloWorldTasklet)
 
 ### Jsoupを利用したスクレイピング
 
-* Netkeibaスクレイピング
-* パスナビスクレイピング
+* [Netkeibaスクレイピング](https://github.com/RyoyaToba/netkeiba_scraping)
+* [パスナビスクレイピング](https://github.com/RyoyaToba/pasnavi_scraping)
 
 ### openAPIspecificationを利用したAPI開発
 
-* todoAPIの作成(Udemy動画視聴)
-* 大学情報API
+* [todoAPIの作成(Udemy動画視聴)](https://github.com/RyoyaToba/todoListServlet)
+* [大学情報API](https://github.com/RyoyaToba/university_API)
