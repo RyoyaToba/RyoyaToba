@@ -37,3 +37,7 @@
 
 * [todoAPI](https://github.com/RyoyaToba/todoAPI_Practice)
 * [大学情報API](https://github.com/RyoyaToba/university_API)
+
+### Python
+
+* [Practice](https://github.com/RyoyaToba/Python_practice)
