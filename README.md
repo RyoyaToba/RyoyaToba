@@ -6,18 +6,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RyoyaToba&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 学習内容
+## Learning
 
-### 学習内容のアウトプット
+### Diary
 
 * [TIL](https://github.com/RyoyaToba/TIL)
 
-### SpringBootを利用したアプリケーション開発
+### SpringBoot Application
 
 * [競馬アプリケーション](https://github.com/RyoyaToba/horse)
 * [パソコンECサイト](https://github.com/RyoyaToba/ECsite_PC)
 
-### サーブレット/JSP
+### Servlet/JSP
 
 * [練習用](https://github.com/RyoyaToba/servlet_JSP_practice)
 * [つぶやきアプリケーション](https://github.com/RyoyaToba/sample_servletJSP_Tsubuyaki)
@@ -28,12 +28,12 @@
 * [DBからデータを取り込みCSVファイルとして出力するサンプル(Chunk)](https://github.com/RyoyaToba/springBatchChunkCsvExport)
 * [Batch処理を利用したHelloWorldの出力(Tasklet)](https://github.com/RyoyaToba/springBatch_HelloWorldTasklet)
 
-### Jsoupを利用したスクレイピング
+### Scraping in Jsoup
 
 * [Netkeibaスクレイピング](https://github.com/RyoyaToba/netkeiba_scraping)
 * [パスナビスクレイピング](https://github.com/RyoyaToba/pasnavi_scraping)
 
-### openAPIspecificationを利用したAPI開発
+### openAPIspecification
 
 * [todoAPI](https://github.com/RyoyaToba/todoAPI_Practice)
 * [大学情報API](https://github.com/RyoyaToba/university_API)
