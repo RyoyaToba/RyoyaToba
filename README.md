@@ -24,9 +24,11 @@
 
 ### SpringBatch
 
+* [TaskletSample](https://github.com/RyoyaToba/SpringBatch_Tasklet)
+* [ChunkSample](https://github.com/RyoyaToba/SpringBatch_Chunk)
 * [CSVファイルからデータを取り込みDBへ格納するサンプル(Chunk)](https://github.com/RyoyaToba/springBatchChunkCsvInport)
 * [DBからデータを取り込みCSVファイルとして出力するサンプル(Chunk)](https://github.com/RyoyaToba/springBatchChunkCsvExport)
-* [Batch処理を利用したHelloWorldの出力(Tasklet)](https://github.com/RyoyaToba/springBatch_HelloWorldTasklet)
+
 
 ### Scraping in Jsoup
 
