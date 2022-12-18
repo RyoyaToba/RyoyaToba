@@ -27,7 +27,7 @@
 * [TaskletSample](https://github.com/RyoyaToba/SpringBatch_Tasklet)
 * [ChunkSample](https://github.com/RyoyaToba/SpringBatch_Chunk)
 * [CSV->DB](https://github.com/RyoyaToba/SpringBatchCsvImport)
-* [DB->CSV](https://github.com/RyoyaToba/springBatchChunkCsvExport)
+* [DB->CSV](https://github.com/RyoyaToba/SpringBatchCsvExport)
 
 
 ### Scraping in Jsoup
