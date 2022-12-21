@@ -14,31 +14,31 @@
 
 ### SpringBoot Application
 
-* [競馬アプリケーション](https://github.com/RyoyaToba/horse)
-* [パソコンECサイト](https://github.com/RyoyaToba/ECsite_PC)
+* [NetKeiba clone App](https://github.com/RyoyaToba/horse)
+* [PC EC site](https://github.com/RyoyaToba/ECsite_PC)
 
 ### Servlet/JSP
 
-* [練習用](https://github.com/RyoyaToba/servlet_JSP_practice)
-* [つぶやきアプリケーション](https://github.com/RyoyaToba/sample_servletJSP_Tsubuyaki)
+* [Practice](https://github.com/RyoyaToba/servlet_JSP_practice)
+* [Tweet app](https://github.com/RyoyaToba/sample_servletJSP_Tsubuyaki)
 
 ### SpringBatch
 
 * [TaskletSample](https://github.com/RyoyaToba/SpringBatch_Tasklet)
 * [ChunkSample](https://github.com/RyoyaToba/SpringBatch_Chunk)
-* [CSV->DB](https://github.com/RyoyaToba/SpringBatchCsvImport)
-* [DB->CSV](https://github.com/RyoyaToba/SpringBatchCsvExport)
+* [CSV -> DB Sample](https://github.com/RyoyaToba/SpringBatchCsvImport)
+* [DB -> CSV Sample](https://github.com/RyoyaToba/SpringBatchCsvExport)
 
 
 ### Scraping in Jsoup
 
-* [Netkeibaスクレイピング](https://github.com/RyoyaToba/netkeiba_scraping)
-* [パスナビスクレイピング](https://github.com/RyoyaToba/pasnavi_scraping)
+* [NetkeibaScraping](https://github.com/RyoyaToba/netkeiba_scraping)
+* [PasnaviScraping](https://github.com/RyoyaToba/pasnavi_scraping)
 
 ### openAPIspecification
 
-* [todoAPI](https://github.com/RyoyaToba/todoAPI_Practice)
-* [大学情報API](https://github.com/RyoyaToba/university_API)
+* [TodoAPI](https://github.com/RyoyaToba/todoAPI_Practice)
+* [UniversityInfoAPI](https://github.com/RyoyaToba/university_API)
 
 ### Python
 
