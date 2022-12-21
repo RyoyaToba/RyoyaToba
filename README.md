@@ -35,7 +35,7 @@
 * [NetkeibaScraping](https://github.com/RyoyaToba/netkeiba_scraping)
 * [PasnaviScraping](https://github.com/RyoyaToba/pasnavi_scraping)
 
-### openAPIspecification
+### OpenAPI specification
 
 * [TodoAPI](https://github.com/RyoyaToba/todoAPI_Practice)
 * [UniversityInfoAPI](https://github.com/RyoyaToba/university_API)
