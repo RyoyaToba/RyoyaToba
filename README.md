@@ -24,21 +24,21 @@
 
 ### SpringBatch
 
-* [TaskletSample](https://github.com/RyoyaToba/SpringBatch_Tasklet)
-* [ChunkSample](https://github.com/RyoyaToba/SpringBatch_Chunk)
+* [Tasklet Sample](https://github.com/RyoyaToba/SpringBatch_Tasklet)
+* [Chunk Sample](https://github.com/RyoyaToba/SpringBatch_Chunk)
 * [CSV -> DB Sample](https://github.com/RyoyaToba/SpringBatchCsvImport)
 * [DB -> CSV Sample](https://github.com/RyoyaToba/SpringBatchCsvExport)
 
 
 ### Scraping in Jsoup
 
-* [NetkeibaScraping](https://github.com/RyoyaToba/netkeiba_scraping)
-* [PasnaviScraping](https://github.com/RyoyaToba/pasnavi_scraping)
+* [Netkeiba Scraping](https://github.com/RyoyaToba/netkeiba_scraping)
+* [Pasnavi Scraping](https://github.com/RyoyaToba/pasnavi_scraping)
 
 ### OpenAPI specification
 
-* [TodoAPI](https://github.com/RyoyaToba/todoAPI_Practice)
-* [UniversityInfoAPI](https://github.com/RyoyaToba/university_API)
+* [Todo API](https://github.com/RyoyaToba/todoAPI_Practice)
+* [University Info API](https://github.com/RyoyaToba/university_API)
 
 ### Python
 
